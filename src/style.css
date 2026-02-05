@@ -6,9 +6,8 @@ body {
 .stars {
   display: flex;
   list-style: none;
-  margin-bottom: 0;
+  margin: 0;
   padding: 0;
-  margin-left: 0;
 }
 
 .stars__star {
